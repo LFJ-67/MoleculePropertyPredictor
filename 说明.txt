@@ -1,0 +1,16 @@
+文件夹内用shift+右键，然后选择在在终端中打开
+pwd：显示路径
+dir：显示文件夹内文件
+
+
+
+
+
+
+
+
+README是项目说明书。
+
+requirements是依赖库列表。
+
+.gitignore是告诉Git哪些文件不要上传
